@@ -1,4 +1,4 @@
-### sojin ⌨️
+### Sojin 🔱
 
 Welcome to my GitHub profile! I’m Sojin, a passionate **Flutter developer** with a knack for creating seamless and visually appealing applications. My journey in tech is fueled by a love for innovative design and a dedication to crafting user-friendly experiences.
 
