@@ -1,4 +1,4 @@
-### Sojin 🌟
+### sojin ⌨️
 
 Welcome to my GitHub profile! I’m Sojin, a passionate **Flutter developer** with a knack for creating seamless and visually appealing applications. My journey in tech is fueled by a love for innovative design and a dedication to crafting user-friendly experiences.
 
@@ -20,7 +20,10 @@ Welcome to my GitHub profile! I’m Sojin, a passionate **Flutter developer** wi
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/sojinvsaji/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/> 
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  <a target="_blank" href="https://www.instagram.com/sojin.codes/">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" alt="Instagram"/>
   </a>
 </p>
 
