@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m Sojin, a passionate developer with a knack f
 - <img src="https://img.icons8.com/color/48/000000/dart.png" width="20"/> **Dart**
 - <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="20"/> **Supabase**
 - <img src="https://img.icons8.com/color/48/000000/figma.png" width="20"/> **Figma**
-- <img src="https://img.icons8.com/ios-filled/50/000000/design.png" width="20"/> **UI/UX Design**
+- <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-design-ui-flatart-icons-outline-flatarticons.png" width="20"/> **UI/UX Design**
 
 #### 💡 What I Do:
 
