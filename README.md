@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I’m Sojin, a passionate developer with a knack f
 
 #### 🚀 Skills & Technologies:
 
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white) **Flutter**
-- ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) **Dart**
-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) **Supabase**
-- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) **Figma**
-- ![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-%23008080.svg?style=flat-square&logoColor=white) **UI/UX Design**
+- <img src="https://img.icons8.com/color/48/000000/flutter.png" width="20"/> **Flutter**
+- <img src="https://img.icons8.com/color/48/000000/dart.png" width="20"/> **Dart**
+- <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="20"/> **Supabase**
+- <img src="https://img.icons8.com/color/48/000000/figma.png" width="20"/> **Figma**
+- <img src="https://img.icons8.com/ios-filled/50/000000/design.png" width="20"/> **UI/UX Design**
 
 #### 💡 What I Do:
 
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I’m Sojin, a passionate developer with a knack f
 
 #### 🌐 Let’s Connect:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](#)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](#)
-- [![Personal Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat-square&logo=About.me&logoColor=white)](#)
+- <a href="#"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> LinkedIn</a>
+- <a href="#"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="20"/> Twitter</a>
+- <a href="#"><img src="https://img.icons8.com/ios-filled/50/000000/web.png" width="20"/> Personal Website</a>
 
 Feel free to explore my projects, and don't hesitate to reach out for collaboration or if you have any questions!
