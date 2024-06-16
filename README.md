@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I’m Sojin, a passionate **Flutter developer** wi
 #### 🚀 Skills & Technologies:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="30" alt="Flutter"/> 
-  <img src="https://img.icons8.com/color/48/000000/dart.png" width="30" alt="Dart"/> 
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="30" alt="Supabase"/> 
-  <img src="https://img.icons8.com/color/48/000000/figma.png" width="30" alt="Figma"/> 
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="50" alt="Flutter"/> 
+  <img src="https://img.icons8.com/color/48/000000/dart.png" width="50" alt="Dart"/> 
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="50" alt="Supabase"/> 
+  <img src="https://img.icons8.com/color/48/000000/figma.png" width="50" alt="Figma"/> 
 </p>
 
 #### 💡 What I Do:
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I’m Sojin, a passionate **Flutter developer** wi
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/sojinvsaji/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn"/> LinkedIn
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn"/> 
   </a>
 </p>
 
