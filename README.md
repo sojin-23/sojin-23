@@ -8,7 +8,12 @@ Welcome to my GitHub profile! I’m Sojin, a passionate **Flutter developer** wi
   <img src="https://img.icons8.com/color/48/000000/flutter.png" width="40" alt="Flutter"/> 
   <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" alt="Dart"/> 
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" alt="Supabase"/> 
-  <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" alt="Figma"/> 
+  <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" alt="Android"/>
+  <img src="https://img.icons8.com/color/48/000000/ios-logo.png" width="40" alt="iOS"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/dynamic-website.png" width="40" alt="State Management"/>
 </p>
 
 #### 💡 What I Do:
