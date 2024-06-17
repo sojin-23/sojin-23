@@ -9,6 +9,9 @@ Hello Developers! I’m Sojin, a passionate **Flutter developer** with a knack f
   <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" alt="Dart"/> 
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" alt="Supabase"/> 
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/Bloc/bloc/master/docs/assets/bloc_logo_full.png" width="40" alt="Bloc"/>
+  <img src="https://avatars.githubusercontent.com/u/39023240?s=200&v=4" width="40" alt="Provider"/>
+  <img src="https://getx.io/img/logo/getx.png" width="40" alt="GetX"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" alt="Android"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" width="40" alt="Apple"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" alt="Figma"/>
