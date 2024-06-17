@@ -7,7 +7,7 @@ Hello Developers! I’m Sojin, a passionate **Flutter developer** with a knack f
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" width="40" alt="Flutter"/> 
   <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" alt="Dart"/> 
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" alt="Supabase"/> 
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" alt="Firebase"/> 
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" alt="Android"/>
@@ -34,7 +34,7 @@ Hello Developers! I’m Sojin, a passionate **Flutter developer** with a knack f
   <a href="https://www.linkedin.com/in/sojinvsaji/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/sojin.codes/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/_sojinnnnnn/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" alt="Instagram"/>
   </a>
 </p>
