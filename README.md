@@ -1,7 +1,7 @@
-Sojin 🦖
+**Sojin 🦖**
 Hello Developers! I’m Sojin, a passionate Flutter developer with a knack for creating seamless and visually appealing applications. My journey in tech is fueled by a love for innovative design and a dedication to crafting user-friendly experiences.
 
-🚀 Skills & Technologies:
+**🚀 Skills & Technologies:**
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" width="40" alt="Flutter"/> 
   <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" alt="Dart"/> 
@@ -18,10 +18,10 @@ Hello Developers! I’m Sojin, a passionate Flutter developer with a knack for c
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" alt="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" alt="JavaScript"/>
 </p>
-💡 What I Do:
+**💡 What I Do:**
 App Development: Bringing ideas to life through dynamic and responsive applications.
 Design Systems: Creating cohesive design systems that ensure consistency and scalability.
-🌐 Let’s Connect:
+**🌐 Let’s Connect:**
 <p align="left">
   <a href="https://www.linkedin.com/in/sojinvsaji/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
