@@ -8,6 +8,7 @@ Hello Developers! I’m Sojin, a passionate **Flutter developer** with a knack f
   <img src="https://img.icons8.com/color/48/000000/flutter.png" width="40" alt="Flutter"/> 
   <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" alt="Dart"/> 
   <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" alt="Firebase"/> 
+  <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" alt="SQLite"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" alt="Android"/>
