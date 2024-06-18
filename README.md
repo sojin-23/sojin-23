@@ -10,7 +10,7 @@ Hello Developers! I’m Sojin, a passionate **Flutter developer** with a knack f
   <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" alt="Firebase"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="40" alt="SQLite"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git"/> -->
   <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" alt="Android"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" width="40" alt="Apple"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" alt="Figma"/>
